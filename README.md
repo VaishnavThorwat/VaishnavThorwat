@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Data Analyst & Data Scientist** with a B.E. in AI & Data Science, passionate about turning messy datasets into actionable insights. I love exploring patterns in data, building predictive models, and creating data-driven solutions that solve real problems.
+I'm a **Data Analyst & Aspiring Data Scientist** with a B.E. in AI & Data Science, passionate about turning messy datasets into actionable insights. I love exploring patterns in data, building predictive models, and creating data-driven solutions that solve real problems.
 
 Currently seeking **Data Analyst and Data Scientist internship opportunities** where I can apply statistical thinking, machine learning, and data visualization to drive business decisions.
 
