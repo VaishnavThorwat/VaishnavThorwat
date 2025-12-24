@@ -94,10 +94,10 @@ class VaishnavThorwat:
 - 📌 **Key Skills:** Python, Pandas, Scikit-learn, Regression Analysis, Feature Engineering, Data Visualization
 - 🎯 **Impact:** Achieved R² score of 0.81, explaining 81% of price variance. Identified that overall quality and living area are the strongest price predictors, with renovations adding ~15% premium
 
-### 📉 [Customer Churn Prediction System](https://github.com/VaishnavThorwat/customer-churn-prediction)
-**Description:** Built a predictive model to identify customers at risk of churning using historical customer data. Implemented multiple classification algorithms and performed feature importance analysis to help businesses retain high-value customers.
-- 📌 **Key Skills:** Python, Machine Learning, Classification (Random Forest, XGBoost), Data Preprocessing, Model Evaluation
-- 🎯 **Impact:** Developed a model with 85%+ accuracy, enabling proactive retention strategies and reducing customer attrition by identifying at-risk segments early
+### 📉 [SaaS-Customer-Retention-Analysis](https://github.com/VaishnavThorwat/SaaS-Customer-Retention-Analysis) (⚒️Working on it)
+**Description:** Conducted a deep-dive analysis of customer attrition for CloudPulse, a B2B SaaS platform. Performed data auditing, feature engineering, and segment-based hypothesis testing to pinpoint specific behavioral triggers that lead to churn.
+- 📌 **Key Skills:** Python (Pandas/NumPy), SaaS KPI Design (Churn Rate, MRR at Risk, ARPU), Behavioral Segmentation, Data Storytelling
+- 🎯 **Impact:** Identified $66,000+ in Monthly Recurring Revenue at risk. And still working
 
 > 💡 **Tip:** Check out my [repositories](https://github.com/VaishnavThorwat?tab=repositories) for more projects!
 
