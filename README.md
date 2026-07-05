@@ -130,24 +130,6 @@ A hybrid deep learning model for cyberbullying classification on Hinglish text.
 | Onboarding Drop-off Analyzer | Swafinix Technology Hackathon | n8n · Gemini AI · PostHog · Slack | Weekly AI pipeline clustering drop-off causes and auto-delivering prioritised UX fix recommendations to Slack |
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VaishnavThorwat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnavThorwat&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnavThorwat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
 ## What I'm Building Next
 
 - Deploying a publicly accessible RAG application with a live URL
